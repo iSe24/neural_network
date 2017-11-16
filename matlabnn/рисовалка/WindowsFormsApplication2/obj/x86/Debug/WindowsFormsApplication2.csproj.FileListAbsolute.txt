@@ -1,0 +1,17 @@
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\[Мои проекты]\Примеры\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\kbyte305x130.gif
+C:\Users\Влад\Downloads\Scribble with Mouse\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Влад\Downloads\Scribble with Mouse\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Влад\Downloads\Scribble with Mouse\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Downloads\Scribble with Mouse\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Влад\Downloads\Scribble with Mouse\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Влад\Downloads\Scribble with Mouse\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Влад\Downloads\Scribble with Mouse\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Влад\Downloads\Scribble with Mouse\WindowsFormsApplication2\obj\x86\Debug\frmScribble.resources
